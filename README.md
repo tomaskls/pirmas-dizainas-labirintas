@@ -12,7 +12,7 @@ _website design project_
 
 This project is for educational porposes only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at:https://github.com/tomaskls/Pirmi-dizainai
+Site published at:https://github.com/tomaskls/pirmas dizainas labirintas
 
 Design: [Labirintas](https://www.pinterest.com/pin/464293042832100427/)
 
@@ -24,6 +24,8 @@ Design: [Labirintas](https://www.pinterest.com/pin/464293042832100427/)
 -   CSS flex
 -   CSS grid
 -   SVG images
+-   Favicon
+
 -   **NO** responsive design
 
 ## 🧰 Getting Started
